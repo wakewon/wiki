@@ -120,7 +120,7 @@ export const sidebar = {
           collapsed: true,
           items: [{ text: "Zotero 7 与 Zotero Beta", link: "/user-guide/faqs/zotero-7-beta-versions" }],
         },
-        { text: "与抓取文献条目相关的", link: "/user-guide/faqs/update-translators" },
+        { text: "与添加文献条目相关的", link: "/user-guide/faqs/add-item/troubleshooting" },
         { text: "与 Word 引用相关的", link: "/user-guide/faqs/word-addon" },
         { text: "与同步相关的", link: "/user-guide/faqs/sync" },
         { text: "与插件相关的", link: "/user-guide/faqs/plugins" },
